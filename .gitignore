@@ -42,3 +42,8 @@ yarn-debug.log*
 
 # Ignore db test files.
 db/test.*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
